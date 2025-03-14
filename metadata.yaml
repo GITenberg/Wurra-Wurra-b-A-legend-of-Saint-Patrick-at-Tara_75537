@@ -1,0 +1,34 @@
+_repo: Wurra-Wurra-b-A-legend-of-Saint-Patrick-at-Tara_75537
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Innes, John
+    birthdate: 1863
+    deathdate: 1941
+    gutenberg_agent_id: '50931'
+    url: http://www.gutenberg.org/2009/agents/50931
+creator:
+  author:
+    agent_name: Dunham, Curtis
+    gutenberg_agent_id: '43639'
+    url: http://www.gutenberg.org/2009/agents/43639
+description: ''
+gutenberg_issued: '2025-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75537'
+language: en
+pgterms:marc904: https://archive.org/details/wurrawurralegend00dunhiala/page/n5/mode/2up
+pgterms:marc905: 20220310202946dunham
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bDesmond Fitzgerald, Inc., $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Wurra-Wurra : $b A legend of Saint Patrick at Tara'
+url: http://www.gutenberg.org/ebooks/75537
